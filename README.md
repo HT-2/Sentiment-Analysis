@@ -3,3 +3,5 @@ This project aims to perform sentiment analysis on comments left by students on 
 
 Firstly, I created my own embedding layer. But since the results were not good, I used Glove embedding from Keras. 
 
+In the end, through this project, these are the key points that I  learned:
+For solving problems in natural language, data is the most important thing. The more data we have, the better it gets for the model to get trained since the number of features through which the model could learn potentially increases.
